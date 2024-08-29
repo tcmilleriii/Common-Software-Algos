@@ -1,0 +1,4 @@
+# ninja log v5
+0	423	1722704440624550591	CMakeFiles/depth_first.dir/depth_first.cpp.o	2639c5093a25ea9b
+0	489	1722704440690615210	CMakeFiles/depth_first.dir/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/src/graphTraversalHelper.cpp.o	19e723a4864d763d
+489	512	1722704440716407359	depth_first	83a2ba7a1ff7920b

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/build",
+  "command": "/usr/bin/clang++ -I/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/depth_first/../include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/depth_first.dir/depth_first.cpp.o -c /Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/depth_first/depth_first.cpp",
+  "file": "/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/depth_first/depth_first.cpp",
+  "output": "CMakeFiles/depth_first.dir/depth_first.cpp.o"
+},
+{
+  "directory": "/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/build",
+  "command": "/usr/bin/clang++ -I/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/depth_first/../include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/depth_first.dir/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/src/graphTraversalHelper.cpp.o -c /Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/src/graphTraversalHelper.cpp",
+  "file": "/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/src/graphTraversalHelper.cpp",
+  "output": "CMakeFiles/depth_first.dir/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/src/graphTraversalHelper.cpp.o"
+}
+]

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/dijkstras algorithm/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I\"/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/dijkstras algorithm/../include\" -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/dijkstras_method.dir/dijkstras_method.cpp.o -c \"/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/dijkstras algorithm/dijkstras_method.cpp\"",
+  "file": "/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/dijkstras algorithm/dijkstras_method.cpp",
+  "output": "CMakeFiles/dijkstras_method.dir/dijkstras_method.cpp.o"
+},
+{
+  "directory": "/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/dijkstras algorithm/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I\"/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/dijkstras algorithm/../include\" -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/dijkstras_method.dir/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/src/graphTraversalHelper.cpp.o -c /Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/src/graphTraversalHelper.cpp",
+  "file": "/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/src/graphTraversalHelper.cpp",
+  "output": "CMakeFiles/dijkstras_method.dir/Users/treymiller/Education/cpp_knowledge/useful_algos/graph_traversal/src/graphTraversalHelper.cpp.o"
+}
+]
