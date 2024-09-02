@@ -6,6 +6,5 @@ project(main VERSION 0.1.0 LANGUAGES C CXX)
 
 add_executable(main
     main.cpp
-    ${CMAKE_CURRENT_SOURCE_DIR}/src/binary_search.cpp
 )
 target_include_directories(main PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
