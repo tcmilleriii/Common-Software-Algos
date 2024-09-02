@@ -17,6 +17,9 @@
 // N = integer indicating number of inputs in the array (sorted already, smallest to biggest).
 // x = each value in the array, from first to Nth.
 
+// OUTPUT:
+//  - Algorithm outputs the index at which the desired value exists.
+
 void recursiveBinarySearch(std::vector<int> search_me, int first, int last, int find_me, int& winning_index){
 
     // Get middle.

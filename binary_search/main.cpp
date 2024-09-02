@@ -5,6 +5,9 @@
 #include <cmath>
 #include "binary_search.hpp"
 
+// This script executes my Binary Sort Algorithm for whatever example case the user wishes
+// to try out.
+
 int main(){
 
     // User defines (via std::cin) an array of integers.
