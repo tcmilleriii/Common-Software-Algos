@@ -13,6 +13,15 @@
 // that we redefine the variable types when we instantiate the recursiveBinarySearch template
 // function.
 
+// INPUT FORMAT:
+//  - User defines (via std::cin) a SORTED array.
+    // N <-- number of elements
+    // x1 x2 x3 ... xN <-- elements themselves
+// OUTPUT:
+//  - Algorithm outputs the index at which the desired value exists.
+
+
+
 int main(){
 
     // User defines (via std::cin) an array of integers.
