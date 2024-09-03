@@ -6,11 +6,11 @@
 #include "binary_search.hpp"
 
 // This script executes my Binary Sort Algorithm for whatever example case the user wishes
-// to try out.
+// to try out. It leverages the template version of binary_search located in binary_search.hpp.
 
 // In this main.cpp function, we're calling the template based on the types we've chosen for 
-// a few other variables: namely, search_me, curr, and find_me. Changing those would require
-// that we redefine the variable types when we instantiate the recursiveBinarySearch template
+// a few other variables: namely, search_me, curr, and find_me. Changing those would requires
+// that you redefine the variable types when we instantiate the recursiveBinarySearch template
 // function.
 
 // INPUT FORMAT:
@@ -45,6 +45,6 @@ int main(){
 
     recursiveBinarySearch<std::vector<double>, double, double, double, int>(search_me,0,search_me.size(),find_me,winning_index);
 
-    std::cout << " Wining index was: " << winning_index << std::endl;
+    std::cout << "The index of your variable was: " << winning_index << std::endl;
     return winning_index;
 }
