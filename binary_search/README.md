@@ -14,12 +14,13 @@ First we need to check out the git repo, then build:
 mkdir ~/workspace  
 cd ~/workspace  
 git clone https://github.com/tcmilleriii/Common-Software-Algos.git  
+cd binary_search/
 cd build  
 cmake ..  
 make
 ```
 
-### Running the Binary Sort Algorithm
+### Running the Algorithm
 Now, with the executable ready, we can simply run the main.cpp script with the following command:
 `./main`
 
