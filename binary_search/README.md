@@ -10,12 +10,14 @@ You will need:
 
 ### Building the Project
 First we need to check out the git repo, then build:
->mkdir ~/workspace
->cd ~/workspace
->git clone https://github.com/tcmilleriii/Common-Software-Algos.git 
->cd build 
->cmake ..
->make
+```
+mkdir ~/workspace  
+cd ~/workspace  
+git clone https://github.com/tcmilleriii/Common-Software-Algos.git  
+cd build  
+cmake ..  
+make
+```
 
 ### Running the Binary Sort Algorithm
 Now, with the executable ready, we can simply run the main.cpp script with the following command:
@@ -25,10 +27,12 @@ You will be prompted to enter both a sorted array as well as a targeted variable
 
 ### Example 
 After the `./main` command has been entered into the terminal, user will be prompted to enter an example data set. An example data set of N=5 values is provided:
->5 
->1 2 3 4 5
+```
+5  
+1 2 3 4 5
+```
 
 You are then prompted to indicate which number you'd like to find in the array, for example:
 `4`
 
-The script will then find the index of this number in the array, which in our example would be 3.
+The script will then find the index of this number in the array, which in our example would be index 3.
