@@ -8,8 +8,8 @@
 
 // Template defined here for use with different vector types (ex: integers, doubles, etc.)
 // T1 usually a std::vector<some_variable_type> (search_me)
-// T2 represents first value 
-// T3 represents final value
+// T2 represents first value of current recursion
+// T3 represents final index of current recursion
 // T4 usually an value in the vector (find_me) - must be same variable type as T1 types
 // T5 usually an integer (index of found value)
 template<typename T1, typename T2, typename T3, typename T4, typename T5>
